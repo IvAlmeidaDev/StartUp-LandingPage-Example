@@ -1,1 +1,16 @@
-A simple Home Page made to practice the fundamentals of HTML and CSS.
+# Modern Landing Page
+
+Responsive landing page built with React and Tailwind CSS.
+Focused on clean UI, responsive layouts and modern frontend practices.
+
+## Live Demo
+
+https://ialmeida-landingpage-example.vercel.app/
+
+## Features
+
+- Responsive design
+- Modern UI layout
+- Mobile-friendly
+- Reusable components
+- Smooth navigation
