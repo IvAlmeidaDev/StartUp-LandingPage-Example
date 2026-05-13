@@ -24,4 +24,6 @@ https://ialmeida-landingpage-example.vercel.app/
 
 ### Mobile View
 
-![Mobile Screenshot](./screenshots/mobile.png)
+<p align="center">
+  <img src="./screenshots/mobile.png" alt="Mobile Preview" width="100%" />
+</p>
