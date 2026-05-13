@@ -14,3 +14,14 @@ https://ialmeida-landingpage-example.vercel.app/
 - Mobile-friendly
 - Reusable components
 - Smooth navigation
+
+## Screenshots
+
+### Desktop View
+
+![Desktop Screenshot](./screenshots/desktop_1.png)
+![Desktop Screenshot](./screenshots/desktop_2.png)
+
+### Mobile View
+
+![Mobile Screenshot](./screenshots/mobile.png)
