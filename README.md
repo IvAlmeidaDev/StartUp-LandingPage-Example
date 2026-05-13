@@ -20,13 +20,15 @@ https://ialmeida-landingpage-example.vercel.app/
 ### Desktop View
 
 <p align="center">
-  <img src="./screenshots/desktop_1.png" alt="Mobile Preview" width="100%" />
+  <img src="./screenshots/desktop_1.png" alt="Desktop Preview" width="100%" />
 </p>
 
-![Desktop Screenshot](./screenshots/desktop_2.png)
+<p align="center">
+  <img src="./screenshots/desktop_2.png" alt="Desktop Preview 2" width="100%" />
+</p>
 
 ### Mobile View
 
 <p align="center">
-  <img src="./screenshots/mobile.png" alt="Mobile Preview" width="60%" />
+  <img src="./screenshots/mobile.png" alt="Mobile Preview" width="40%" />
 </p>
